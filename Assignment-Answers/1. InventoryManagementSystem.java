@@ -145,3 +145,20 @@ public class InventoryManagementSystem {
     }
     
 }
+/*
+ Analysis
+Time Complexity Analysis:
+
+Add Product:
+
+The addProduct method involves adding a product to the HashMap.
+Time Complexity: O(1) on average because HashMap provides constant time for insertion.
+Update Product:
+
+The updateProduct method involves checking if the product exists and then updating it.
+Time Complexity: O(1) on average for the same reason as above.
+Delete Product:
+
+The deleteProduct method involves removing a product from the HashMap.
+Time Complexity: O(1) on average, as removal also has constant time complexity in HashMap.
+*/
