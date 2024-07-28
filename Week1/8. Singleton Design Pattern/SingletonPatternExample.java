@@ -33,7 +33,7 @@ class Logger{
         System.out.println("log message: "+msg);
     }
 }
-public class singletonDP {
+public class SingletonPatternExample {
     public static void main(String[] args) {
         Logger logger1 = Logger.getInstance();
         Logger logger2 = Logger.getInstance();
