@@ -1,0 +1,27 @@
+2024-08-06 18:39:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPARTMENTS" not found; SQL statement:
+insert into departments (id, name) values (default, ?) [42102-200]
+2024-08-06 18:47:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPARTMENTS" not found; SQL statement:
+insert into departments (id, name) values (default, ?) [42102-200]
+2024-08-06 18:47:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPARTMENTS" not found; SQL statement:
+insert into departments (id, name) values (default, ?) [42102-200]
+2024-08-06 18:49:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPARTMENTS" not found; SQL statement:
+insert into departments (id, name) values (default, ?) [42102-200]
+2024-08-06 18:51:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPARTMENTS" not found; SQL statement:
+insert into departments (id, name) values (default, ?) [42102-200]
+2024-08-06 18:52:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPARTMENTS" not found; SQL statement:
+insert into departments (id, name) values (default, ?) [42102-200]
+2024-08-06 18:53:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPARTMENTS" not found; SQL statement:
+select department0_.id as id1_0_, department0_.name as name2_0_ from departments department0_ [42102-200]
+2024-08-06 18:55:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPARTMENTS" not found; SQL statement:
+select department0_.id as id1_0_, department0_.name as name2_0_ from departments department0_ [42102-200]
+2024-08-06 18:57:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEES" not found; SQL statement:
+select employee0_.id as id1_1_, employee0_.department_id as departme4_1_, employee0_.email as email2_1_, employee0_.name as name3_1_ from employees employee0_ [42102-200]
