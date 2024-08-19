@@ -1,0 +1,30 @@
+Explore What's New in Spring Boot 3
+Spring Boot 3.x introduces several new features and improvements over the previous versions. Here are some of the key updates:
+
+Java 17 Baseline:
+
+Spring Boot 3.x requires Java 17 as the baseline. This means you must use Java 17 or higher when working with Spring Boot 3.x.
+Jakarta EE 9+ Support:
+
+Spring Boot 3.x fully embraces the Jakarta EE 9+ namespace changes. For instance, all javax packages have been renamed to jakarta. This change was made as part of the transition from the old Java EE (now Jakarta EE).
+Native Image Support:
+
+Spring Boot 3.x offers first-class support for GraalVM native images. This allows you to compile your Spring Boot application to a native executable, resulting in faster startup times and lower memory consumption.
+Observability Enhancements:
+
+Spring Boot 3.x integrates with the new Micrometer Observability framework, which includes metrics, logging, and tracing in a unified manner. This improves the ability to monitor and troubleshoot applications.
+Improved Kotlin Support:
+
+Spring Boot 3.x has enhanced support for Kotlin, including improvements in function signatures, Kotlin Coroutines, and better overall performance for Kotlin-based projects.
+Dependency Upgrades:
+
+Spring Boot 3.x includes upgrades to popular libraries and dependencies:
+Spring Framework 6.x
+Hibernate ORM 6.x
+Apache Tomcat 10.x
+Security Enhancements:
+
+Spring Security 6.x is part of Spring Boot 3.x and aligns with the new Jakarta EE namespaces and provides improved OAuth2 support.
+Spring AOT (Ahead-of-Time) Compilation:
+
+Spring Boot 3.x enhances AOT compilation support, which is particularly beneficial for native images. This allows you to optimize your applications at compile time rather than at runtime.
