@@ -1,0 +1,33 @@
+2024-08-21 17:03:25.921143+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+select c1_0.id,c1_0.email,c1_0.first_name,c1_0.last_name,c1_0.password from customer c1_0 where c1_0.id=? [42104-224]
+2024-08-21 17:03:27.131470+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+select c1_0.id,c1_0.email,c1_0.first_name,c1_0.last_name,c1_0.password from customer c1_0 where c1_0.id=? [42104-224]
+2024-08-21 17:03:28.184133+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+select c1_0.id,c1_0.email,c1_0.first_name,c1_0.last_name,c1_0.password from customer c1_0 where c1_0.id=? [42104-224]
+2024-08-21 17:03:29.035332+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+select c1_0.id,c1_0.email,c1_0.first_name,c1_0.last_name,c1_0.password from customer c1_0 where c1_0.id=? [42104-224]
+2024-08-21 17:03:29.951834+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+select c1_0.id,c1_0.email,c1_0.first_name,c1_0.last_name,c1_0.password from customer c1_0 where c1_0.id=? [42104-224]
+2024-08-21 17:03:43.523877+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+insert into customer (email,first_name,last_name,password,id) values (?,?,?,?,default) [42104-224]
+2024-08-21 17:03:45.291090+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+insert into customer (email,first_name,last_name,password,id) values (?,?,?,?,default) [42104-224]
+2024-08-21 17:03:54.335133+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+select c1_0.id,c1_0.email,c1_0.first_name,c1_0.last_name,c1_0.password from customer c1_0 [42104-224]
+2024-08-21 17:03:55.413024+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+select c1_0.id,c1_0.email,c1_0.first_name,c1_0.last_name,c1_0.password from customer c1_0 [42104-224]
+2024-08-21 17:04:09.653863+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+insert into customer (email,first_name,last_name,password,id) values (?,?,?,?,default) [42104-224]
+2024-08-21 17:04:10.878990+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+insert into customer (email,first_name,last_name,password,id) values (?,?,?,?,default) [42104-224]
